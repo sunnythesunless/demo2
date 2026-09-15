@@ -1,0 +1,6 @@
+{
+  "name": "Everbright Uniforms B2B",
+  "description": "Enterprise uniform procurement portal with live consignment milestone tracking, bulk RFQ builder, institutional tax checkout, and order manifests.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
